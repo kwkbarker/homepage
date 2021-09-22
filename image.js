@@ -19,6 +19,8 @@
 
 // })
 
+console.log("image.js loaded.")
+
 function toggle() {
 
     var current = document.getElementById('toggle');
